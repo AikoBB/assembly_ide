@@ -5,13 +5,22 @@ instructions in the text field and run all written instructions. The results of 
 can be reviewed below the text field in 16 bit microcontroller simulator.
 
 # List of instructions:
-* mov     * dec
-⋅⋅* inc     ⋅⋅* not
-⋅⋅* or      ⋅⋅* xor
-⋅⋅* and     ⋅⋅* add
-⋅⋅* stc     ⋅⋅* std
-⋅⋅* clc     ⋅⋅* cld
-⋅⋅* shr     ⋅⋅* shl
-⋅⋅* ror     ⋅⋅* push
-⋅⋅* pop     ⋅⋅* nop
-⋅⋅* hlt
+* mov     
+* dec
+* inc     
+* not
+* or      
+* xor
+* and     
+* add
+* stc     
+* std
+* clc     
+* cld
+* shr     
+* shl
+* ror    
+* push
+* pop     
+* nop
+* hlt
